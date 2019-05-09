@@ -16,4 +16,8 @@ This demo also includes an image with changes on a branch for examination of ima
 
 
 
+<<<<<<< Updated upstream
 Forked by Ariana Familiar
+=======
+Created by Matthew McCullough
+>>>>>>> Stashed changes
